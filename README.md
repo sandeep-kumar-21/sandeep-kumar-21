@@ -19,7 +19,7 @@ sandeep:
   currently_building: "Scalable full-stack applications with AI integrations"
   currently_learning: "System Design, AWS, Docker, Kubernetes, GenAI"
   problem_solving: "1200+ DSA problems solved on LeetCode & GeeksforGeeks"
-  ask_me_about: ["React/Next.js", "Node/Express/Nest.js", "Java", "DSA", "Gemini & Claude APIs"]
+  ask_me_about: ["React/Next.js", "Node/Nest.js", "System Design", "DSA", "Gemini & Claude APIs"]
   reach_me: "sandeepkumarnitrr@gmail.com"
 ```
 
@@ -54,7 +54,7 @@ Integrating **AI capabilities** into everyday products to make them smarter and 
 
 ### ⚡ A bit about me
 
-I like building **real-world, production-level software** — from responsive frontends to the backend systems that power them.
+I like building **real, production-level software** — from the database up to the UI.
 
 I enjoy backend work the most — APIs, databases, and system design — but I build the frontend too, so I can ship a full product on my own.
 
@@ -69,7 +69,7 @@ I enjoy backend work the most — APIs, databases, and system design — but I b
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandeep-kumar-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&icon_color=8E75B2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-kumar-21&theme=radical&hide_border=true&background=0D1117&ring=D97757&fire=8E75B2" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=sandeep-kumar-21&theme=radical&hide_border=true&background=0D1117&ring=D97757&fire=8E75B2" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757" height="165"/>
 
@@ -79,9 +79,9 @@ I enjoy backend work the most — APIs, databases, and system design — but I b
 
 <div align="center">
 
-### 🔥 Contribution Graph
+### 🏆 Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeep-kumar-21&theme=react-dark&hide_border=true&bg_color=0D1117&color=D97757&line=8E75B2&point=ffffff" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sandeep-kumar-21&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 </div>
 
