@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hi%20There!%20I'm%20Sandeep%20&fontSize=70&fontColor=#0C0A09&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&desc=A%20Full%20Stack%20Developer&descSize=26&descAlign=50&descAlignY=62&textBg=false&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hi%20There!%20I'm%20Sandeep%20&fontSize=70&fontColor=E6E6FA&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&desc=A%20Full%20Stack%20Developer&descSize=26&descAlign=50&descAlignY=62&textBg=false&color=0:4F46E5,100:9333EA"  />
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">✨ About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">🛠️ I code with</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=#0C0A09&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=E6E6FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:9333EA,100:4F46E5"  />
 </div>
 
 ###
