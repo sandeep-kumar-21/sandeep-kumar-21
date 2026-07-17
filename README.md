@@ -7,6 +7,7 @@
 ###
 
 <h2 data-importer="text" align="left">✨ About me</h2>
+<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
