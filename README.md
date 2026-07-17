@@ -1,96 +1,90 @@
-<div align="center">
+<br clear="both">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:8E75B2&height=220&section=header&text=Hi%20There!%20I'm%20Sandeep&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20with%20AI&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://linkedin.com/in/sandeep-kumar-s21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Sandeep_kumar21" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:sandeepkumarnitrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=sandeep-kumar-21&style=for-the-badge&color=8E75B2&label=PROFILE+VIEWS" />
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hi%20There!%20I'm%20Sandeep%20&fontSize=70&fontColor=#0C0A09&fontAlign=50&fontAlignY=40&rotate=0&stroke=-&desc=A%20Full%20Stack%20Developer&descSize=26&descAlign=50&descAlignY=62&textBg=false&theme=default"  />
 </div>
 
-<br/>
+###
 
-```yaml
-sandeep:
-  based_in: "India 🇮🇳"
-  studying: "MCA @ NIT Raipur"
-  currently_building: "Scalable full-stack applications with AI integrations"
-  currently_learning: "System Design, AWS, Docker, Kubernetes, GenAI"
-  problem_solving: "1200+ DSA problems solved on LeetCode & GeeksforGeeks"
-  ask_me_about: ["React/Next.js", "Node/Nest.js", "System Design", "DSA", "Gemini & Claude APIs"]
-  reach_me: "sandeepkumarnitrr@gmail.com"
-```
+<h2 data-importer="text" align="left">About me</h2>
 
-<br/>
+###
 
-### 🧠 Tech I vibe with
+<p data-importer="text" align="left">📍 Based in: India 🇮🇳<br>🎓 Education: MCA'26 @ NIT Raipur <br>🛠️ Currently building: Scalable full-stack applications with AI integrations<br>📚 Currently learning: System Design, AWS, Docker, Kubernetes, GenAI<br>🧩 Problem solving: 1200+ DSA problems solved on LeetCode & GeeksforGeeks<br>💬 Ask me about: React/Next.js, Node/Express/Nest.js, Java, DSA<br>📫 Reach me: sandeepkumarnitrr@gmail.com</p>
 
-<div align="center">
+###
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,html,css,tailwind,nodejs,express,nestjs,mongodb,mysql,git,github,postman,vscode&theme=dark" />
+<h2 data-importer="text" align="left">I code with</h2>
 
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
 </div>
 
-<br/>
+###
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep-kumar-21/sandeep-kumar-21/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeep-kumar-21/sandeep-kumar-21/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sandeep-kumar-21/sandeep-kumar-21/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-### 🔭 What I work on
+###
 
-Building **scalable full-stack applications** end-to-end — from database design to deployment.
-
-Crafting **clean, reusable UI components** with responsive, performance-first frontend architecture.
-
-Designing **secure, production-grade backend systems** — REST APIs, authentication, and database architecture built to handle real-world load.
-
-Integrating **AI capabilities** into everyday products to make them smarter and more useful.
-
-</td>
-<td valign="top" width="50%">
-
-### ⚡ A bit about me
-
-I like building **real, production-level software** — from the database up to the UI.
-
-I enjoy backend work the most — APIs, databases, and system design — but I build the frontend too, so I can ship a full product on my own.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep-kumar-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757&icon_color=8E75B2" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=sandeep-kumar-21&theme=radical&hide_border=true&background=0D1117&ring=D97757&fire=8E75B2" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D97757" height="165"/>
-
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=sandeep-kumar-21.sandeep-kumar-21&"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandeep-kumar-21&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/sandeep-kumar-s21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="sandeepkumarnitrr@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-<br/>
+###
 
-<div align="center">
-
-*⭐️ If you like what you see, drop a star somewhere — always up for a good build.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:D97757&height=100&section=footer" width="100%"/>
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=#0C0A09&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
