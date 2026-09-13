@@ -6,12 +6,12 @@
 
 ###
 
-<h2 data-importer="text" align="left">✨ About me</h2>
+<h2 data-importer="text" align="left"> About me</h2>
 <img data-importer="image" align="right" height="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 ###
 
-<p data-importer="text" align="left">📍 Based in: India 🇮🇳<br>🎓 Education: MCA'26 @ NIT Raipur <br>🛠️ Currently building: Scalable full-stack applications with AI integrations<br>📚 Currently learning: System Design, AWS, Docker, Kubernetes, GenAI<br>🧩 Problem solving: 1200+ DSA problems solved on LeetCode & GeeksforGeeks<br>💬 Ask me about: React/Next.js, Node/Express/Nest.js, Java, DSA<br>📫 Reach me: sandeepkumarnitrr@gmail.com</p>
+<p data-importer="text" align="left">- Based in: India 🇮🇳<br>- Education: MCA'26 @ NIT Raipur <br>- Currently building: Scalable full-stack applications with AI integrations<br>- Currently learning: System Design, AWS, Docker, Kubernetes, GenAI<br>- Problem solving: 1200+ DSA problems solved on LeetCode & GeeksforGeeks<br>- Ask me about: React/Next.js, Node/Express/Nest.js, Java, DSA<br>- Reach me: sandeepkumarnitrr@gmail.com</p>
 
 ###
 
